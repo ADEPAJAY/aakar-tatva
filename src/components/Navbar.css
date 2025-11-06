@@ -1,0 +1,102 @@
+/* Navbar Base */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(90deg, #111, #222);
+  padding: 0.8rem 2rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  color: white;
+}
+
+/* Left: Logo */
+.navbar-left {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.navbar-logo {
+  width: 55px;
+  height: 55px;
+  object-fit: contain;
+}
+
+/* Center: Title + Tagline */
+.navbar-center {
+  flex: 2;
+  text-align: center;
+  line-height: 1.1;
+}
+
+.navbar-title {
+  color: #ffd700;
+  font-size: 2rem; /* Increased size */
+  font-weight: 800;
+  margin: 0;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.navbar-tagline {
+  color: #bfbfbf;
+  font-size: 0.75rem; /* Scaled down */
+  margin-top: 0.2rem;
+  font-style: italic;
+  letter-spacing: 0.3px;
+  opacity: 0.9;
+}
+
+/* Right: Navigation Links */
+.navbar-right {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+.navbar-right a {
+  color: #ddd;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.3s, transform 0.2s;
+}
+
+.navbar-right a:hover {
+  color: #ffd700;
+  transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    gap: 0.8rem;
+    text-align: center;
+  }
+
+  .navbar-left,
+  .navbar-center,
+  .navbar-right {
+    flex: unset;
+  }
+
+  .navbar-title {
+    font-size: 1.6rem;
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.4);
+
+  }
+
+  .navbar-tagline {
+    font-size: 0.7rem;
+  }
+
+  .navbar-right {
+    gap: 1rem;
+  }
+}
