@@ -86,6 +86,8 @@ The site offers:
 
 ## 🗂️ Folder Structure
 
+```
+
 aakar-tatva/
 │
 ├── public/
@@ -102,3 +104,5 @@ aakar-tatva/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
+```
