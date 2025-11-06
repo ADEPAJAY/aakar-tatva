@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ADEPAJAY/aakar-tatva/blob/main/src/assets/logo.png" alt="Aakar Tatva Logo" width="180" style="border-radius:20px; box-shadow:0 0 15px rgba(255,215,0,0.6);" />
+  <img src="src/assets/Logo.png" alt="Aakar Tatva Logo" width="180" style="border-radius:20px; box-shadow:0 0 15px rgba(255,215,0,0.6);" />
   
   <h1>🏛️ AAKAR TATVA</h1>
   <h3><i>Where Form Meets Philosophy</i></h3>
