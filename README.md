@@ -85,3 +85,20 @@ The site offers:
 ---
 
 ## 🗂️ Folder Structure
+
+aakar-tatva/
+│
+├── public/
+│ └── index.html
+│
+├── src/
+│ ├── assets/ # Images & icons
+│ ├── components/ # Navbar, Footer
+│ ├── pages/ # Home, Articles, About, Map, Quiz
+│ ├── App.jsx
+│ ├── App.css
+│ └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
