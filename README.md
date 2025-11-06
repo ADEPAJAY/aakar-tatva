@@ -51,16 +51,23 @@ The site offers:
 
 ---
 
-## 🖼️ Screenshots
+## 🏠 Home Page
+![Home Screenshot](https://raw.githubusercontent.com/ADEPAJAY/aakar-tatva/main/src/assets/homeimage.png)
 
-| Home Page | Articles Page |
-|:--:|:--:|
-| ![Home Screenshot](https://github.com/ADEPAJAY/aakar-tatva/blob/9b9ddba2340464e59cec89064a7e46282dbab9f8/src/assets/homeimage.png) | ![Articles Screenshot]([https://github.com/ADEPAJAY/aakar-tatva/assets/articlesimage](https://github.com/ADEPAJAY/aakar-tatva/blob/9b9ddba2340464e59cec89064a7e46282dbab9f8/src/assets/articlesimage.png)) |
+---
 
-| Heritage Match | Map Page |
-|:--:|:--:|
-| ![Quiz Screenshot](https://github.com/ADEPAJAY/aakar-tatva/blob/9b9ddba2340464e59cec89064a7e46282dbab9f8/src/assets/quizimage.png) | ![Map Screenshot]([https://github.com/ADEPAJAY/aakar-tatva/assets/mapimage](https://github.com/ADEPAJAY/aakar-tatva/blob/9b9ddba2340464e59cec89064a7e46282dbab9f8/src/assets/mapimage.png)) |
+## 🏛️ Articles Page
+![Articles Screenshot](https://raw.githubusercontent.com/ADEPAJAY/aakar-tatva/main/src/assets/articlesimage.png)
 
+---
+
+## 💫 Heritage Match (Quiz)
+![Quiz Screenshot](https://raw.githubusercontent.com/ADEPAJAY/aakar-tatva/main/src/assets/quizimage.png)
+
+---
+
+## 🗺️ Map Page
+![Map Screenshot](https://raw.githubusercontent.com/ADEPAJAY/aakar-tatva/main/src/assets/mapimage.png)
 
 ---
 
